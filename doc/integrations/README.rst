@@ -36,7 +36,21 @@ Click on any of the images below to know how to integrate CORTX with these other
 +----------------+--------------------+---------------------+
 | |cortx-restic| | |thanos|           | |goofys|            | 
 +----------------+--------------------+---------------------+
+| |modzy-ai|     | |milvus|           | |s3filecoin|        | 
++----------------+--------------------+---------------------+
+| |ftp|          | |docker|           | |cortx-drive|       | 
++----------------+--------------------+---------------------+
+| |NTFS|         |  |freesheet|       |      |go-ds-motr|   | 
++----------------+--------------------+---------------------+
+| |here|         |   |flaskmedia|     |  |terraform|        |
++----------------+--------------------+---------------------+
 
+
+.. |docker| image:: ../images/docker.jpg
+   :target: cortx-docker
+
+.. |ftp| image:: ../images/ftp.jpg
+   :target: cortx-ftp
 
 .. |laravel| image:: https://github.com/Seagate/cortx/blob/main/doc/integrations/laravel/1200px-Laravel.svg.png?raw=true
    :target: laravel
@@ -146,6 +160,9 @@ Click on any of the images below to know how to integrate CORTX with these other
 .. |dvc| image:: ../images/dvc.png
    :target: dvc
 
+.. |freesheet| image:: ./freesheet-jupyter/img/logo.png
+   :target: freesheet-jupyter
+
 .. |chia| image:: ../images/chia-logo.png
    :target: chia-blockchain
 
@@ -163,6 +180,35 @@ Click on any of the images below to know how to integrate CORTX with these other
 
 .. |samba| image:: ../images/project_logo.png
    :target: rpi-samba
+   
+.. |s3filecoin| image:: https://i.imgur.com/SfcbktD.jpg
+   :target: s3filecoin
+   
+.. |cortx-drive| image:: ./cortx-drive/docs/img/cortx-drive-logo.jpeg
+   :target: cortx-drive
+   
+.. |modzy-ai| image:: ../images/modzyai.png
+   :target: cortx-modzy-ai
+   
+.. |milvus| image:: ../images/milvus.jpg
+   :target: cortx-milvusio
+   
+.. |NTFS| image:: ../images/ntfs.jpg
+   :target: CortxNTFS
+   
+.. |FreeSheet| image:: ../images/freesheet.jpg
+   :target: freesheet-jupyter
+   
+.. |go-ds-motr| image:: ../images/go-ds-motr.jpg
+   :target: go-ds-motr
+  
+.. |here| image:: ../images/cortx-here.png
+   :target: here_cortx_traffic_data
+ 
+.. |terraform| image:: ../images/terraform.jpg
+   :target: cortx-terraform
 
+.. |flaskmedia| image:: ../images/flask.jpg
+   :target: CORTX-Flask-MediaViewer
 
 Looking to make your own integration?  Click `here <suggestions.md>`_ for instructions and a list of suggested techologies
